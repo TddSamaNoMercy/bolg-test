@@ -1,7 +1,7 @@
 # bolg-test
 ## 这是我写的第一行java代码
 `System.out.println("Hello World");`
-
+****
 ## 这是我写的一个代码片段
 ```java
 private static void printFields(Class cl) {
@@ -17,12 +17,13 @@ private static void printFields(Class cl) {
         }
    }
 ```
+****
 ## 我平时的爱好是
 * 唱
 * 跳
 * rap
-* 篮球
-
+* ~~足球~~ 篮球
+****
 ## 我最喜欢的明星是
 1. 新垣结衣
 2. 石原里美
